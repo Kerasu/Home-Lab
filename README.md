@@ -23,4 +23,10 @@ The Home Lab project aimed to establish a controlled environment for gaining han
 
 - <a href="https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro">Download VMware Workstation [this has changed recently in 2024 after I made this lab, you now require a Broadcom account]</a>
 - <a href="https://www.microsoft.com/en-us/software-download/windows11">Download Windows 11 ISO for VMWare </a>
+ > ![image](https://github.com/user-attachments/assets/e75c00a2-e982-43d7-959c-eb5a430685de)
+ > these are the specs I went with for my lab
+
 - <a href="https://www.kali.org/get-kali/#kali-platforms">Download Kali Linux for VMWare [Stable version preferably] </a>
+ >![image](https://github.com/user-attachments/assets/d7d26276-0977-42c3-8adb-b3ae77746231)
+ > these are the specs I went with for my lab
+
