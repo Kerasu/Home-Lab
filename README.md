@@ -21,4 +21,4 @@ The Home Lab project aimed to establish a controlled environment for gaining han
 
 ## Steps
 
-- [Download VMWare Workstation]([https://tryhackme.com/r/p/Kyou](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro))
+- <a href="https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro">Download VMware Workstation (this has changed recently in 2024 after I made this lab, you now require a Broadcom account)</a>
