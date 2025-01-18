@@ -20,10 +20,5 @@ The Home Lab project aimed to establish a controlled environment for gaining han
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+- [Download VMWare Workstation]([https://tryhackme.com/r/p/Kyou](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro))
