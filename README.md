@@ -15,7 +15,7 @@ The Home Lab project aimed to establish a controlled environment for gaining han
 
 ### Tools Used
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
+- Web Pen-testing using ![Bursuite](put link here for burp lab on github later on)
 - Network analysis tools (such as Wireshark and NMAP) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
